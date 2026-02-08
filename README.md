@@ -75,6 +75,7 @@ walmart-sales-analysis/
 |	|	├── analytical_request.png			# Аналитические запросы
 |	|	├── cpi_corr.png					# Корреляция cpi
 |	|	├── walmart_sales.png 				# Линейный график продаж
+|	|	├── data_set.png					# Демонстрация датасета
 │   │
 |   ├── notebooks/
 |   |   ├── key_insights.ipynb              # Ключевые инсайты
