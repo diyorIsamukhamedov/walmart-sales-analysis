@@ -72,6 +72,9 @@ walmart-sales-analysis/
 │   ├── docs/
 │   │   ├── business_problem.docx           # Требования проекта
 │   │   ├── walmart_erd_model.png           # ERD диаграмма БД
+|	|	├── analytical_request.png			# Аналитические запросы
+|	|	├── cpi_corr.png					# Корреляция cpi
+|	|	├── walmart_sales.png 				# Линейный график продаж
 │   │
 |   ├── notebooks/
 |   |   ├── key_insights.ipynb              # Ключевые инсайты
